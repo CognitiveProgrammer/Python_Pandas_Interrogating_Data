@@ -4,4 +4,4 @@ _Any Data Analytics Work required intelligent Interrogation on Data.  Python Pan
 
 _This repository contains the jupyter notebook(s) and link to corresponding [YouTube tutorials](youtube.com/CodesBay) which explains how to interrogate data efficiently and effectively using python pandas_
 
-[Pandas DataFrame: Getting Hands-On with the DataFrame](https://github.com/CodesBay/Python_Pandas_Interrogating_Data/tree/master/Pandas_DataFrame)
+(1.)[Pandas DataFrame: Getting Hands-On with the DataFrame](https://github.com/CodesBay/Python_Pandas_Interrogating_Data/tree/master/Pandas_DataFrame)
